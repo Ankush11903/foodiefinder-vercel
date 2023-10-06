@@ -1,6 +1,6 @@
 import react from "react";
 import { Link } from "react-router-dom";
-import { AiFillStar } from "react-icons/Ai";
+import { AiFillStar } from "react-icons/ai";
 import {CiDiscount1} from "react-icons/ci"
 
 const RestraurantCard = ({

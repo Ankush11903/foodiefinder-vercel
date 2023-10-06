@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { AiOutlineArrowLeft, AiOutlineArrowRight } from "react-icons/Ai";
+import { AiOutlineArrowLeft, AiOutlineArrowRight } from "react-icons/ai";
 
 const Carousel = (props) =>  {
   const [currentIndex, setCurrentIndex] = useState(0);

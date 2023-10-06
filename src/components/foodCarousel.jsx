@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { AiOutlineArrowLeft, AiOutlineArrowRight } from "react-icons/Ai";
+import { AiOutlineArrowLeft, AiOutlineArrowRight } from "react-icons/ai";
 
 function FoodCarousel(props) {
   console.log("props");
